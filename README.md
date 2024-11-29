@@ -1,6 +1,6 @@
 # Alexandra Restrepo Agudelo
 ### ¡Hi, i'm Alexandra Restrepo!
-I'm a student of software engineer with a passion for building innovative solutions and a love for learning new technologies.
+I'm a student of BIT with a passion for building innovative solutions and a love for learning new technologies.
 ---
 <img src="https://images.pexels.com/photos/276452/pexels-photo-276452.jpeg" width="100%" height="300px"></img>
 ---
